@@ -1,1 +1,1 @@
-A simple webpage desinged using HTML,javascript and CSS
+A simple webpage bulit using HTML,javascript and CSS
