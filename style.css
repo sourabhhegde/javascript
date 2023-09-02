@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(226, 158, 158);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,h2{
+    color: rgb(201, 49, 49);
+}
+
+p 
+{
+    color: rgb(201,49,49);
+}
+
+.highlight{
+    background-color:rgb(226, 213, 213)
+}
+#specialtext{
+
+    color:rgb(210, 55, 55)
+}
